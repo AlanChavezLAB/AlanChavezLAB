@@ -12,7 +12,7 @@
 
 # Manuel Alan Ramírez Chávez
 
-### 🛡️ Ingeniero Informático · Especialista en Ciberseguridad · Co-fundador de [Apeiron](https://github.com/apeiron)
+### 🛡️ Ingeniero Informático · Especialista en Ciberseguridad · Co-fundador de [Apeiron](https://github.com/apeiron-io)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Manuel%20Alan-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tu-usuario)
 [![Email](https://img.shields.io/badge/Email-Contáctame-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tuemail@ejemplo.com)
-[![Apeiron](https://img.shields.io/badge/🚀%20Apeiron-Software%20Dev-111827?style=for-the-badge)](https://github.com/apeiron)
+[![Apeiron](https://img.shields.io/badge/🚀%20Apeiron-Software%20Dev-111827?style=for-the-badge)](https://github.com/apeiron-io)
 
 </div>
 
@@ -89,7 +89,7 @@ class ManuelAlan:
 
 El nombre viene del concepto griego **ἄπειρον** (*lo ilimitado, lo infinito*) — porque creemos que el software bien construido no tiene límites.
 
-🔗 **[Visita nuestra organización en GitHub →](https://github.com/apeiron)**
+🔗 **[Visita nuestra organización en GitHub →](https://github.com/apeiron-io)**
 
 ---
 
